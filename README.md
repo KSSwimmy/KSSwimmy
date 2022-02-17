@@ -1,2 +1,2 @@
-[![Kimberly's Portfolio Banner](./images/gitHubBanner.png)](https://ksswinton.com)
+[![Kimberly's Portfolio Banner](./images/GitHubBanner.png)](https://ksswinton.com)
 
