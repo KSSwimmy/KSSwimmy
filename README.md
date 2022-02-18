@@ -30,9 +30,22 @@
 #### Ori's Galaxy Quest (FrontEnd & BackEnd) ⦁•● React | Python | Django | Postman | Adobe Illustrator | Adobe Xd | 🌍 [website](https://cocky-davinci-344c63.netlify.app/) :octocat: [github](https://github.com/Cakewalk-CS)
 
 - built an interactive Multi-User Dungeon (MUD) client and server in groups.
+***Backend*** 
 - Built the backend using Python & Django framework
 - Built and checked the functionality of the API requests using Postman
+***Frontend*** 
 - Adobe Illustrator and Xd were used to design the landing page's layout and functionality
 
+---
+### Work ⏰
 
+#### Lambda School &nbsp;|&nbsp;&nbsp;Team Lead
+
+- Serving as a teaching assistant leading a team of 10+ Software Engineering students in daily code challenges in JS, Java, and/or Python 
+
+- Leading daily standup meetings and individual teammate 1:1s via Zoom to build camaraderie, weekly goals, facilitate the sharing of ideas and work progress, and provide guidance for that week’s material 
+
+- Grading assignments and providing daily feedback on career artifacts, website, personal projects and issue resolution of the entire Full Stack Web Development curriculum through slack help channel or code review 
+
+- Delivering supplemental lectures on various topics related to software engineering
 
