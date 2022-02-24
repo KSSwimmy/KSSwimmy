@@ -77,7 +77,7 @@
     <td>
         <a href="https://www.tcals10k.com/">
         <img  src=
-        "./images/largeLogoBg.png" 
+        "./images/tcalsHELLO.png" 
         alt="Clothing Brand" width="500">
     </td>
     <td>
