@@ -61,7 +61,7 @@
 
 <table>
   <tr>
-    <th>Author/Illustrator</th>
+    <th>Author/Illustrator.</th>
     <th>Clothing Brand</th>
     <th>Graphic Design</th>
     
