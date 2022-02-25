@@ -78,13 +78,13 @@
         <a href="https://www.tcals10k.com/">
         <img  src=
         "./images/tcalsHELLO.png" 
-        alt="Clothing Brand" width="500">
+        alt="Clothing Brand" width="700">
     </td>
     <td>
         <a href="https://www.tcals10k.com/">
         <img  src=
         "./images/RHNSLogo.png" 
-        alt="Clothing Brand" width="900">
+        alt="Clothing Brand" width="700">
         </td>
   </tr>
   <tr>
