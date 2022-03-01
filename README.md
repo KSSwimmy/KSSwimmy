@@ -81,10 +81,9 @@
         alt="Clothing Brand" width="700">
     </td>
     <td>
-        <a href="https://www.tcals10k.com/">
         <img  src=
         "./images/RHNSLogo.png" 
-        alt="Clothing Brand" width="700">
+        alt="Logo Design" width="700">
         </td>
   </tr>
   <tr>
