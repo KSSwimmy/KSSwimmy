@@ -2,7 +2,7 @@
 
 ---
 
-### Projects &nbsp; 🔭
+### Projects (Click titles for details) 🔭
 
 
 
