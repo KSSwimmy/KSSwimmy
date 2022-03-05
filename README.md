@@ -4,7 +4,10 @@
 
 ### Projects &nbsp; 🔭
 
-#### ksswinton.com ⦁•● JavaScript | React | Styled Components | React Spring | React Hook Form | EmailJS | Adobe Illustrator | Adobe Xd | 🌍 [website](ksswinton.com) :octocat: [github](https://github.com/KSSwimmy/portfolio_V3)
+
+
+<details> 
+<summary> ksswinton.com (Portfolio Website) ⦁•● JavaScript | React | Styled Components | React Spring | React Hook Form | EmailJS | Adobe Illustrator | Adobe Xd | 🌍 <a href="ksswinton.com">Website</a> :octocat: <a href="https://github.com/KSSwimmy/portfolio_V3">GitHub</a> </summary>
 
 - Portfolio website displaying projects and my love for space
 - Built FrontEnd with ReactJS (React JavaScript)
@@ -15,8 +18,10 @@
 - React Hook Form was implemented to easily create a form using React Hooks
 - Designed the planets, stars, and ect using Adobe Illustrator
 - Assembled the page layout in Adobe Xd
-
-#### Bookr App (BackEnd) ⦁•● Java/Spring Boot | Maven | Hibernate | PostgreSQL | Swagger | Postman | Adobe Illustrator | Adobe Xd | OAuth2 | 🌍 [website](https://bookr.vercel.app/login) :octocat: [github](https://github.com/BW-BookR-2019/BE)
+</details>
+<br>
+<details>
+<summary> Bookr App (BackEnd) ⦁•● Java/Spring Boot | Maven | Hibernate | PostgreSQL | Swagger | Postman | Adobe Illustrator | Adobe Xd | OAuth2 | 🌍 <a href="https://bookr.vercel.app/login">Website</a> :octocat: <a href="https://github.com/BW-BookR-2019/BE">GitHub</a> </summary>
 
 - An app that allows its users to review books
 - Built BackEnd with Java/Spring Boot
@@ -27,9 +32,11 @@
 -  Adobe Illustrator was used to create the UI page layout
 
 *Personally, I'd like to come back and rebuild this project, however I'd prefer to use open source APIs to help out with the backend. Or maybe I'll build it using C++ 🤔*
-
-
-#### Ori's Galaxy Quest (FrontEnd & BackEnd) ⦁•● React | Python | Django | Postman | Adobe Illustrator | Adobe Xd | 🌍 [website](https://cocky-davinci-344c63.netlify.app/) :octocat: [github](https://github.com/Cakewalk-CS)
+</details>
+<br>
+<details> 
+<summary>Ori's Galaxy Quest (FrontEnd & BackEnd) ⦁•● React | Python | Django | Postman | Adobe Illustrator | Adobe Xd | 🌍 <a href="https://cocky-davinci-344c63.netlify.app/">Website</a>
+ :octocat: <a href="https://github.com/Cakewalk-CS">GitHub</a></summary>
 
 - built an interactive Multi-User Dungeon (MUD) client and server in groups.
 ***Backend*** 
@@ -38,6 +45,7 @@
 ***Frontend*** 
 - ReactJS
 - Adobe Illustrator and Xd were used to design the landing page's layout and functionality
+</details>
 
 ---
 ### Work ⏰
