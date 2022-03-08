@@ -2,6 +2,30 @@
 
 ---
 
+### Skills 🌱
+
+<table>
+  <tr>
+    <th>FrontEnd</th>
+    <th>BackEnd</th>
+    <th>UX/UI/Web/ Graphic Design </th>
+    
+  </tr>
+  <tr>
+    <td> 
+        JavaScript, HTML5, CSS3, REST APIs, React, React Native, LESS/SASS, Styled Components, Material UI, ReactSpring, Bootstrap
+    </td>
+    <td>
+        Python, Django, Java Spring/Boot, Spring Data, OAuth2, Maven, PostgreSQL, Swagger, Postman, Insomnia, CRUD APIs 
+    </td>
+    <td>
+       Figma, Adobe Xd, Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro, Logo and Brand Identity, Product Design, User Interface, User Experience, Interaction Design, Wireframing, Rapid Prototyping, Design Research
+  </tr>
+  
+</table>
+
+---
+
 ### Projects (Click titles for details) 🔭
 
 
