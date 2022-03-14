@@ -1,5 +1,7 @@
 [![Kimberly's Portfolio Banner](./images/GitHubBanner.png)](https://ksswinton.com)
 
+[![Visits Badge](https://badges.pufler.dev/visits/ksswimmy/ksswimmy)](https://github.com/ksswimmy.com) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://https://twitter.com/ksswimmy) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.https://www.linkedin.com/in/kss89/) [![Figma Badge](https://img.shields.io/badge/Figma-Resume-informational?style=flat&logo=figma&logoColor=white&color=blueviolet)](https://www.figma.com/file/kKtf1gBSy9XDBh0uev6CPq/CV-%2F-KSwinton-Resume?node-id=0%3A1)
+
 ---
 
 ### Skills 🌱
